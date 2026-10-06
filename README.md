@@ -1,4 +1,4 @@
-# first-repo
+# FIRST REPO
 <h2>This is my first repo in github</h2>/n
 
 
